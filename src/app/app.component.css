@@ -1,0 +1,12 @@
+.campoLoginRegistro {
+
+    position: relative;
+    cursor: pointer;
+    padding: 9px 50px 21px 0;
+    padding-right: 50px;
+    min-height: 34px;
+    color: #ff3333;
+    letter-spacing: 0.8px;
+    margin-top: 18px;
+    font-weight: 500;
+}
